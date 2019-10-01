@@ -1,6 +1,5 @@
-# Quotes
-This is a web page where users can read and even post their quotes.
-
+# Github-surfer
+This is a website where users may enter a GitHub username into a form, submit it, and see names and descriptions of that person's public repositories. A person can also look for repositories and use the GitHub API  to retrieve their information.
 # Author
 Karigithe Jeff.
 
@@ -40,7 +39,7 @@ Incase of any issues please arise an issue or make a pull request.
 ## License
 The MIT License
 
-Copyright (c) 2019 Karigithe Jeff, Live-Quotes.
+Copyright (c) 2019 Karigithe Jeff, Github-surfer.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
