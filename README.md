@@ -13,7 +13,7 @@ All you need is to click this here and be redirected to the website.
 If you want the source code you can just clone the rope and follow the steps below.
 
 ## Development server
-Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
+Run ng serve for a dev server. Navigate to https://karigithe67.github.io/Github-surfer/. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
 Run ng generate component component-name to generate a new component. You can also use ng generate directive|pipe|service|class|guard|interface|enum|module.
